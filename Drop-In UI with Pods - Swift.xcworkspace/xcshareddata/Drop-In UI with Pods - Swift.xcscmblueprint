@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "83E115B4DCD0198BED134B8819F549C8DFA235FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2F2FA14535728A30047281DCE42D0BE6E2BD786E" : 0,
+    "83E115B4DCD0198BED134B8819F549C8DFA235FC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1FB7B847-1B49-430D-B87B-619C0D3AD233",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2F2FA14535728A30047281DCE42D0BE6E2BD786E" : "..\/Desktop\/Tutorials\/Drop-In%20UI%20with%20Pods%20-%20Swift%20Tokenization%20Key",
+    "83E115B4DCD0198BED134B8819F549C8DFA235FC" : "Drop-In-UI-Swift-with-Tokenization-Key\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Drop-In UI with Pods - Swift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Drop-In UI with Pods - Swift.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/orcunkeskin\/Drop-In-UI-with-Pods---Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F2FA14535728A30047281DCE42D0BE6E2BD786E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/orcunkeskin\/Drop-In-UI-Swift-with-Tokenization-Key.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83E115B4DCD0198BED134B8819F549C8DFA235FC"
+    }
+  ]
+}
